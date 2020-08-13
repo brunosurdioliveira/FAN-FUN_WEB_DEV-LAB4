@@ -1,0 +1,13 @@
+body {
+    background-color: tomato;
+    color: black;
+    text-align: center;
+}
+
+.tempStyle {
+    font-size: 48px;
+    font-weight: bolder;
+    padding: 5px;
+    color: darkblue;
+    background-color: peachpuff;
+}
